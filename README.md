@@ -68,14 +68,20 @@
 
 ### ⚙️ GitHub Stats
 
-<div align="center">
 
-<a href="https://github.com/kareemsherif">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemsherif&show_icons=true&theme=radical&title_color=d63384&icon_color=d63384&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemsherif&layout=compact&theme=radical&title_color=d63384&hide_border=true" width="49%" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareemsherif&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&line_height=24" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemsherif&layout=donut-vertical&theme=radical&hide_border=true" height="160" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemsherif&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareemsherif&theme=radical" alt="Profile Summary" />
+</p>
+
 
 ---
 
