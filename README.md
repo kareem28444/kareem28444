@@ -83,10 +83,10 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kareemsherif)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-sherif)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kareemsherif)
-[![Email](https://img.shields.io/badge/Email-Me-d63384?style=flat&logo=gmail&logoColor=white)](mailto:kareemsherif.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kareem28444)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-sherif-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kareem28444)
+[![Email](https://img.shields.io/badge/Email-Me-d63384?style=flat&logo=gmail&logoColor=white)](mailto:kareemsherif284@gmail.com)
 
 </div>
 
