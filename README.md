@@ -1,106 +1,26 @@
-<div align="center">
+# نماذج تربوية في القرآن والسنة
 
-<h3 align="center">👋 I’m <span style="color:#d63384;">Kareem Sherif</span></h3>
+مشروع كتاب إلكتروني تفاعلي عربي من 10 صفحات، ومعه ملف PDF جاهز باسم `نماذج-تربوية-في-القرآن-والسنة.pdf`.
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />  
+يحتوي المشروع على:
 
-</div>
+- قائمة إبحار للفصول.
+- محتوى تربوي احترافي مستند إلى القرآن والسنة.
+- صورة تفاعلية.
+- صوت تفاعلي عبر قارئ المتصفح.
+- فيديو HTML يعمل داخل الصفحة وقابل للاستبدال بفيديو محلي.
+- عنصر ثلاثي الأبعاد CSS.
+- اختبار ختامي من 5 أسئلة مع إظهار النتيجة.
+- روابط نشر وشرح تصدير PDF.
 
-<h2 align="center">✨ Frontend Developer ✨</h2>
-<h3 align="center">ReactJS | Salla Themes | UI/UX Lover</h3>
+## التشغيل
 
-<div align="center">
+افتح ملف `index.html` في المتصفح.
 
-![Profile Views](https://komarev.com/ghpvc/?username=kareemsherif&style=flat&color=d63384&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkareemsherif&count_bg=%23d63384&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+## تصدير PDF
 
-</div>
+يوجد ملف PDF جاهز داخل المجلد. من داخل الكتاب اضغط زر `تحميل PDF` في الغلاف لتنزيله مباشرة.
 
----
+## النشر
 
-### 🧠 About Me
-
-- 💻 Passionate **Frontend Developer** focused on crafting clean, responsive, and animated web experiences.  
-- ⚛️ Skilled in **ReactJS**, **Tailwind CSS**, and **Salla Theme Development**.  
-- 🎨 I love building **beautiful user interfaces** with attention to micro-interactions and smooth UX.  
-- 🚀 Currently working on:  
-  - Building **Falcon CRM** (Multi-language CRM System).  
-  - Developing **K-sebio Theme** for Salla Platform.  
-  - Deep diving into **React animations** and performance optimization.  
-- 📚 Constant learner — currently exploring **Advanced React Patterns** and **Next.js**.
-
----
-
-### 🧰 Tools & Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Salla](https://img.shields.io/badge/Salla_Themes-d63384?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 🚧 Projects
-
-#### 🦅 Falcon CRM
-> A full-featured CRM system supporting Arabic & English, with dynamic fields, global settings, and modern UI.  
-🔗 *In progress – self-hosted on VPS*
-
-#### 🛍️ K-sebio Theme (Salla)
-> A premium Salla theme featuring animated sections, sliders, countdowns, and custom-built banners.  
-🎨 Designed and coded from scratch using **Liquid**, **Tailwind**, and **JS components**.
-
-#### 🧩 Distributed File Transfer System
-> A technical project combining **TCP server**, **UDP broadcast**, and **HTTP dashboard** for real-time monitoring.
-
-#### 🧠 Tkinter Filters App
-> Python app using **Tkinter** and **OpenCV** to apply filters on images — built as a learning project.
-
----
-
-### ⚙️ GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemsherif&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&line_height=24" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemsherif&layout=donut-vertical&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemsherif&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareemsherif&theme=radical" alt="Profile Summary" />
-</p>
-
-
----
-
-### 📬 Connect With Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kareem28444)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-sherif-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kareem28444)
-[![Email](https://img.shields.io/badge/Email-Me-d63384?style=flat&logo=gmail&logoColor=white)](mailto:kareemsherif284@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-💬 *“Code. Learn. Improve. Repeat.”*  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="8%" />
-
-</div>
+يمكن رفع الملفات إلى GitHub Pages أو Netlify أو Google Drive. الرابط المحلي للنسخة الإلكترونية هو `index.html`، وبعد الرفع يصبح الرابط هو عنوان صفحة النشر.
